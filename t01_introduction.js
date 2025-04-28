@@ -2,6 +2,7 @@
  Name of task: Intro to Javascript 
  Person who rote it: Aidan Shannon
  Date written: 29/4/2025
+ Purpose: Introduce Javascript and how it works
  ***********************************************************************************************************/
 console.log("Running t01_introduction.js");
 
