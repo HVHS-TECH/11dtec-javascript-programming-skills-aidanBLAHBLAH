@@ -1,5 +1,5 @@
 /************************************************************************************************************
- Name of task: Javascript vairables 
+ Name of task: Javascript variables 
  Person who rote it: Aidan Shannon                             
  Date written: 29/4/2025                                       
  Purpose: How to use Javascrit            
@@ -7,13 +7,15 @@
  console.log("Running t02_variables.js");
 
  //Variables
- console.log(pocketMoney) ;
+ console.log("pocketMoney");
  
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
  
- 
+  let pocketMoney = 10000000000000000000000000000000000;
+  console.log("pocketMoney")
+  console.log("You have",pocketMoney,"dollars");
  
  
  /************************************************************************************************************
