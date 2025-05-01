@@ -4,11 +4,11 @@
  Date written: 1/5/2025                                       
  Purpose: Debugging javascript              
  ***********************************************************************************************************/
-console.log("Task 4 - Debugging")
+console.log("Task 4 - Debugging"); 
 console.log("Running t04_debugging.js");
 //Variables
 
-var try = 8;
+var length = 8;
 var width = 10;
 // calculate the area
 var area = length + width;
