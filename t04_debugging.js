@@ -1,4 +1,12 @@
+/************************************************************************************************************
+ Name of task: Debugging 
+ Person who rote it: Aidan Shannon                             
+ Date written: 1/5/2025                                       
+ Purpose: Debugging javascript              
+ ***********************************************************************************************************/
 console.log("Task 4 - Debugging")
+console.log("Running t04_debugging.js");
+//Variables
 
 // calculate the area
 var area = length + width;
@@ -6,6 +14,9 @@ var area = length + width;
 // calculate the perimeter
 var perimeter = 2 + length + 2 * width; 
 
+ /************************************************************************************************************ 
+  Main code 
+  ***********************************************************************************************************/
 // Set up the size of the page.
 var length = 8;
 var width = 10;
@@ -19,3 +30,6 @@ if (perimeter > area){
 }else{
     console.log("Hmm, your perimeter is larger. It shouldn't be for this example)
 }
+ /************************************************************************************************************
+  Functions 
+  ***********************************************************************************************************/
