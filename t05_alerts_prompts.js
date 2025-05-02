@@ -11,12 +11,14 @@
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
-var userName = prompt("Please Enter your name", "Aidan")
+var userName = prompt("Please Enter your name", "Aidan");
 prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 15);
-var num = prompt("Enter a number!", "50")
+var num = prompt("Enter a number!", "50");
+console.log(typeof(num));
 num = Number(num);
-console.log(num + num,)
-console.log("Yeah I really just doubled your number 💯")
+console.log(num + num,);
+console.log(typeof(num));
+console.log("Yeah I really just doubled your number 💯");
  /************************************************************************************************************
   Functions 
   ***********************************************************************************************************/
