@@ -7,13 +7,14 @@
  console.log("Running t01_introduction.js");
 
  //Variables
- var userName = prompt("Please Enter your name", "Aidan")
- var num1 = "50";
+ num = Number(num);
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
+var userName = prompt("Please Enter your name", "Aidan")
 prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 15);
-console.log(num1 + num1);
+var num = prompt("Enter a number!", "50")
+console
 
  
  
