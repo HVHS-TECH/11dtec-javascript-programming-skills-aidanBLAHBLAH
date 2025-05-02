@@ -11,7 +11,7 @@
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
-  var user = prompt("Welcome to my program!" + userName + "\nPlease Enter your name");
+  var user = prompt("Welcome to my program " + userName + "!\nPlease Enter your name");
  
  
  
