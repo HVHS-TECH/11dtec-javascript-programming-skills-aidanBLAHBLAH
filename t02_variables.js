@@ -2,7 +2,7 @@
  Name of task: Javascript variables 
  Person who rote it: Aidan Shannon                             
  Date written: 29/4/2025                                       
- Purpose: How to use Javascrit            
+ Purpose: How to use variables       
  ***********************************************************************************************************/
  console.log("Running t02_variables.js");
 
