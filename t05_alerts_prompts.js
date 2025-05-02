@@ -13,7 +13,6 @@
   ***********************************************************************************************************/
 var userName = prompt("Please Enter your name", "Aidan");
 var age = prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 15);
-num = Number(age)
 var birth = prompt("What year were you born in " + userName + "?", "2009");
 var pocketMoney = prompt("How much pocket money do you have?","$");
 alert("Wow " + pocketMoney + " dollars!");
