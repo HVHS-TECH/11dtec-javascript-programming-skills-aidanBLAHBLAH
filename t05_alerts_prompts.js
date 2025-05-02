@@ -12,9 +12,10 @@
   Main code 
   ***********************************************************************************************************/
 var userName = prompt("Please Enter your name", "Aidan");
-prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 15);
+var age = prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 15);
 var pocketMoney = prompt("How much pocket money do you have?","$");
 alert("Wow " + pocketMoney + " dollars!");
+alert("Hi " + userName + " as of 2/5/2025 you are " + age + " years old!\n")
 var num = prompt("Enter a number!", "50");
 console.log(typeof(num));
 num = Number(num);
