@@ -7,12 +7,11 @@
  console.log("Running t01_introduction.js");
 
  //Variables
- 
- 
+ var userName;
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
-  var user = prompt("Welcome to my program! \nPlease Enter your name");
+  var user = prompt("Welcome to my program!" + userName + "\nPlease Enter your name");
  
  
  
