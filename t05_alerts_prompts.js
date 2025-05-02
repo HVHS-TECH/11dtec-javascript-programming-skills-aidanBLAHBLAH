@@ -13,11 +13,12 @@
   ***********************************************************************************************************/
 var userName = prompt("Please Enter your name", "Aidan");
 prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 15);
+var pocketMoney = prompt("How much pocket money do you have?","$");
+alert("Wow " + pocketMoney + " dollars!");
 var num = prompt("Enter a number!", "50");
 console.log(typeof(num));
 num = Number(num);
 console.log(num + num,);
-console.log(typeof(num));
 console.log("Yeah I really just doubled your number 💯");
  /************************************************************************************************************
   Functions 
