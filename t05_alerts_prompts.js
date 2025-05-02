@@ -7,12 +7,13 @@
  console.log("Running t01_introduction.js");
 
  //Variables
- 
+ var answer;
+ var user = prompt("What is your name?", "Aidan");
  
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
- alert("Welcome USER to my first javascript program!")
+ alert("Welcome user to my first javascript program!");
  
  
  
