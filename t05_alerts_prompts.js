@@ -16,10 +16,7 @@ prompt("Welcome to my first program " + userName + "!\nPlease enter your age", 1
 var num = prompt("Enter a number!", "50")
 num = Number(num);
 console.log(num + num,)
-console.log("Yeah I really just double your number")
-
- 
- 
+console.log("Yeah I really just doubled your number 💯")
  /************************************************************************************************************
   Functions 
   ***********************************************************************************************************/
