@@ -15,7 +15,7 @@
   ***********************************************************************************************************/
   let choice = prompt("Pick a number 0-6");
  alert("Person "+choice+" is "+aidanArray[choice]);
-  let choco = prompt("On a scal 0-3 how much do you like chocolate?");
+  let choco = prompt("On a scale 0-3 how much do you like chocolate?");
   alert(chocolateArray[choco]);
   console.log("Person "+choice+" is "+aidanArray[choice]);
   console.log(chocolateArray[choco]);
