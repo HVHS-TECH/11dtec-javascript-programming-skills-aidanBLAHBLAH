@@ -18,7 +18,7 @@
  }
  console.log("Loop stopped!");
  for (count=0;count<5;count++){
-    prompt = ("");
+    console.log("HOW" +count)
  }
  
  
