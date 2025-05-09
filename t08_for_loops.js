@@ -4,7 +4,7 @@
  Date written: 8/05/2025                                       
  Purpose: How to use loops              
  ***********************************************************************************************************/
- console.log("Running t08_for_loop.js");
+ console.log("Running t08_for_loops.js");
 
  //Variables
  
