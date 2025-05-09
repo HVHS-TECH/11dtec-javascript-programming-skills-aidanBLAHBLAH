@@ -17,8 +17,10 @@
     console.log("Current count: " + count);
  }
  console.log("Loop stopped!");
-
- for ()
+ for (count=0;count<5;count++){
+    prompt = ("");
+ }
+ 
  
  
  
