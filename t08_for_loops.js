@@ -13,12 +13,12 @@
   Main code 
   ***********************************************************************************************************/
  console.log("Starting loop")
- for (count=0;count<10;count++){
+ for (count=0;count<11;count++){
     console.log("Current count: " + count);
  }
  console.log("Loop stopped!");
 
- for ()
+
  
  
  
