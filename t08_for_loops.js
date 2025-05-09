@@ -8,7 +8,7 @@
 
  //Variables
  
-  
+  var answer;
  /************************************************************************************************************ 
   Main code 
   ***********************************************************************************************************/
@@ -18,9 +18,10 @@
  }
  console.log("Loop stopped!");
  for (count=0;count<5;count++){
-    console.log("HOW" +count)
+  var nums =  prompt ("Pick a number")
  }
- 
+ answer = nums+nums+nums+nums+nums;
+ console.log("Answer", answer)
  
  
  
