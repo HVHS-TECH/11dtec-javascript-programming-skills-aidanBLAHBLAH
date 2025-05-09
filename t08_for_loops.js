@@ -19,9 +19,10 @@
  console.log("Loop stopped!");
  for (count=0;count<5;count++){
   var nums =  prompt ("Pick a number")
-  
+  nums = Number(nums)
  }
  answer = nums+nums+nums+nums+nums;
+ console.log(answer)
  
  
  
