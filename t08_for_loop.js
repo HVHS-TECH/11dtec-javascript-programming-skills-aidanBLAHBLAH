@@ -4,7 +4,7 @@
  Date written: 8/05/2025                                       
  Purpose: How to use loops              
  ***********************************************************************************************************/
- console.log("Running t01_introduction.js");
+ console.log("Running t08_for_loop.js");
 
  //Variables
  
@@ -15,6 +15,7 @@
  for (count=3;count<20;count++){
     console.log("Current count: " + count)
  }
+ console.log("Loop stopped!")
  
  
  
