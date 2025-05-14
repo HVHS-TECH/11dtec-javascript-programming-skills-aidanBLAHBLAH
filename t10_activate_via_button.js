@@ -10,23 +10,21 @@ console.log("Running t010_activate_via_button.js");
 let userName;
 let userAge;
 let userMoney;
+
 function askName(){
-    userabcdefghijlkmnopqrstuvwxyz = prompt("What's your name?")
-    alert("Welcome " + userabcdefghijlkmnopqrstuvwxyz);
+    prompt("What's your name?")
 };
 function askuserAge(){
-    userAge = prompt("How old are you?");
-    alert("Welcome " + userAge);
+    prompt("How old are you?");
 };
 function askMoney(){
-   var userMoney = prompt("How much money do you have?")
-    if (userMoney < 4){
-        alert("Your too broke to buy chocolate");
-    };
-    function start(){
-        userName = askName;
-        userAge = askuserAge;
-        userMoney = askMoney;
+    prompt("How much money do you have?")
+}
+
+function start(){
+   userName = askName;
+   userAge = askuserAge;
+   userMoney = askMoney;
     };
     
 /************************************************************************************************************ 
