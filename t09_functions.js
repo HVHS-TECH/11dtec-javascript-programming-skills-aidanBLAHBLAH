@@ -25,7 +25,7 @@ function getUserName(){
 getUserName();
 
 function askUserAge(){
-    userAge = prompt("Who old are you?");
+    userAge = prompt("How old are you?");
     alert("Welcome " + userAge);
 };
 askUserAge();
