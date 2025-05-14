@@ -23,6 +23,11 @@ function askMoney(){
     if (userMoney < 4){
         alert("Your too broke to buy chocolate");
     };
+    function start{
+        userName = askName;
+        userAge = askuserAge;
+        userMoney = askMoney;
+    };
 /************************************************************************************************************ 
  Main code 
  ***********************************************************************************************************/
