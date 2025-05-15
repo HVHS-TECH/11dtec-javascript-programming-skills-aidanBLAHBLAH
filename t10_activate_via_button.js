@@ -4,7 +4,7 @@
  Date written: 29/4/2025                                       
  Purpose: How to use buttons            
  ***********************************************************************************************************/
-console.log("Running t010_activate_via_button.js");
+console.log("Running t10_activate_via_button.js");
 
 //Variables
 let userName;
