@@ -17,7 +17,7 @@ function start() {
     userMoney = askMoney();
 }
 function askName() {
-    prompt("How old are you?")
+    prompt("What is your name?")
 }
 function askuserAge() {
     prompt("How old are you?")
