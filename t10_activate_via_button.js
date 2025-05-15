@@ -9,7 +9,7 @@ console.log("Running t10_activate_via_button.js");
 //Variables
 let userName;
 let userAge;
-let userMoney =;
+let userMoney;
 
 function start() {
     userName = askName;
