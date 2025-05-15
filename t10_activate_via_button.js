@@ -12,9 +12,9 @@ let userAge;
 let userMoney;
 
 function start() {
-    userName = askName;
-    userAge = askuserAge;
-    userMoney = askMoney;
+    userName = askName();
+    userAge = askuserAge();
+    userMoney = askMoney();
 }
 function askName() {
     prompt("How old are you?")
