@@ -14,7 +14,7 @@ console.log("Running t09_functions.js");
  ***********************************************************************************************************/
 function getFavColor(){
     userFavColor = prompt("What is your favourite color?");
-    alert ("Your favourite color is: " + userFavColor);
+    alert ("Your favourite color is " + userFavColor);
 };
 getFavColor();
 
@@ -26,7 +26,7 @@ getUserName();
 
 function askUserAge(){
     userAge = prompt("How old are you?");
-    alert("Welcome " + userAge);
+    alert("Welcome " + userAge + " year old");
 };
 askUserAge();
 
