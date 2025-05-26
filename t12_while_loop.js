@@ -7,13 +7,13 @@
 console.log("Running t12_while_loop.js");
 
 //Variables
-var tru = alert("loop will play again");
+var tru = alert("Loop cancelled");
 
 /************************************************************************************************************ 
  Main code 
  ***********************************************************************************************************/
-while (tru != "y"){
-    tru = prompt("Thats not the password. \nSpeak 'abcdefg123' and enter");
+while (tru != "f"){
+    tru = alert("Loop will play again");
 };
 
 alert("Welcome friend!")
