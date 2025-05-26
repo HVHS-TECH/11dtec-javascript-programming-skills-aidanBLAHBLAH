@@ -21,7 +21,7 @@ alert("Loop cancelled!");
 };
 
 function myFunction(){
-    
+    confirm("Press this button to start this loop!\nIf not don't press it")
 }
 
 /************************************************************************************************************
