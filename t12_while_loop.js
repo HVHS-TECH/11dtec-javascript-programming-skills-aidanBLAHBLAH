@@ -4,7 +4,7 @@
  Date written: 27/5/2025                                       
  Purpose: Introduce Javascript and how it works               
  ***********************************************************************************************************/
-console.log("Running t12_while_loops.js");
+console.log("Running t12_while_loop.js");
 
 //Variables
 
