@@ -8,12 +8,11 @@ console.log("Running t12_while_loop.js");
 
 //Variables
 
-
+var tru = prompt("Do you want to continue with this loop?\nPick Y or N");
 /************************************************************************************************************ 
  Main code 
  ***********************************************************************************************************/
 while (tru != "n"){
-    var tru = prompt("Do you want to continue with this loop?\nPick y or n");
     tru = alert("Loop will play again");
 };
 
