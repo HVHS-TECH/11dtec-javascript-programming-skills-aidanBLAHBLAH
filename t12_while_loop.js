@@ -7,7 +7,7 @@
 console.log("Running t12_while_loop.js");
 
 //Variables
-var tru = alert("Loop cancelled");
+var tru = prompt("Do you want to continue with this loop?\nPick y or f");
 
 /************************************************************************************************************ 
  Main code 
