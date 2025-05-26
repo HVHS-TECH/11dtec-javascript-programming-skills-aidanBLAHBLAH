@@ -7,13 +7,13 @@
 console.log("Running t12_while_loop.js");
 
 //Variables
-var password = prompt("Speak 'abcdefg123' and enter");
+var tru = alert("loop will play again");
 
 /************************************************************************************************************ 
  Main code 
  ***********************************************************************************************************/
-while (password != "abcdefg123"){
-    password - prompt("Thats not the password. \nSpeak 'abcdefg123' and enter");
+while (tru != "y"){
+    tru = prompt("Thats not the password. \nSpeak 'abcdefg123' and enter");
 };
 
 alert("Welcome friend!")
