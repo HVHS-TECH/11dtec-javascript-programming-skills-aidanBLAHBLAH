@@ -15,9 +15,11 @@ var tru = prompt("Do you want to continue with this loop?\nPick Y or N");
 while (tru != "N"){
     tru = alert("Loop will play again");
     var tru = prompt("Do you want to continue with this loop?\nPick Y or N");
-}
+};
+if (tru = "N"){
+alert("Loop cancelled!");
+};
 
-alert("Loop cancelled!")
 
 /************************************************************************************************************
  Functions 
