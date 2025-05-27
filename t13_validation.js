@@ -7,7 +7,7 @@
 console.log("Running t13_validation.js");
 
 //Variables
-
+let pocketMoney = prompt("")
 
 /************************************************************************************************************ 
  Main code 
