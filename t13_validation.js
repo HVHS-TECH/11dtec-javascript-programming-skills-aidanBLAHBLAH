@@ -8,14 +8,17 @@ console.log("Running t13_validation.js");
 
 //Variables
 let pocketMoney;
-let brokeLOL = true;
+let nooo = true;
 
 /************************************************************************************************************ 
  Main code 
  ***********************************************************************************************************/
-while (brokeLOL) {
+while (nooo) {
     pocketMoney  =promp("How much pocket money do you have?");
-    if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney))
+    if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
+        alert("Enter a valid number");
+
+    }else
 
 
 
