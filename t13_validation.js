@@ -19,11 +19,7 @@ while (nooo) {
         alert("Enter a valid number");
     }else (pocketMoney == 1){
         alert("you can buy a chocolate")
-    }else (pocketMoney == 2){
-        alert("You can buy a moro")
     }
-
-
 
 /************************************************************************************************************
  Functions 
