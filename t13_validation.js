@@ -16,7 +16,7 @@ let nooo = true;
 while (nooo) {
     if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
         alert("Enter a valid number");
-    }else{
+    }else (pocketMoney == 1){
         alert("you can buy a chocolate")
     }
 
