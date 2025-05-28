@@ -14,11 +14,10 @@ let nooo = true;
  Main code 
  ***********************************************************************************************************/
 while (nooo) {
-    pocketMoney  =promp("How much pocket money do you have?");
+    pocketMoney = prompt("How much pocket money do you have?");
     if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
         alert("Enter a valid number");
-
-    }else
+    }if (pocketMoney => )
 
 
 
