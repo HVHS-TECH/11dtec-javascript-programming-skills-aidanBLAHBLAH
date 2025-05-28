@@ -1,6 +1,6 @@
 /************************************************************************************************************
  Name of task: While loop
- Person who rote it: Aidan Shannon                             
+ Person who wrote it: Aidan Shannon                             
  Date written: 27/5/2025                                       
  Purpose: Introduce Javascript and how it works               
  ***********************************************************************************************************/

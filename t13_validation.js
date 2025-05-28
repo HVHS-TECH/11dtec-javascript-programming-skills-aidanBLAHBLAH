@@ -1,13 +1,14 @@
 /************************************************************************************************************
  Name of task: Validations
- Person who rote it: Aidan Shannon                             
+ Person who wrote it: Aidan Shannon                             
  Date written: 28/5/2025                                       
  Purpose: How to work validation            
  ***********************************************************************************************************/
 console.log("Running t13_validation.js");
 
 //Variables
-let pocketMoney = prompt("")
+let pocketMoney;
+let brokeLOL = true;
 
 /************************************************************************************************************ 
  Main code 
