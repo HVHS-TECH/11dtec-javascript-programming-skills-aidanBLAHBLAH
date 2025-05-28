@@ -7,7 +7,7 @@
 console.log("Running t13_validation.js");
 
 //Variables
-let pocketMoney = prompt("How much pocket money do you have?");
+var pocketMoney = prompt("How much pocket money do you have?");
 let nooo = true;
 
 /************************************************************************************************************ 
@@ -16,7 +16,7 @@ let nooo = true;
 while (nooo) {
     if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
         alert("Enter a valid number");
-    }else (pocketMoney == 1){
+    }else{
         alert("you can buy a chocolate")
     }
 
