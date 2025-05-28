@@ -17,7 +17,9 @@ while (nooo) {
     pocketMoney = prompt("How much pocket money do you have?");
     if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
         alert("Enter a valid number");
-    }else (pocketMoney == 1)
+    }else {
+        
+    }
 
 
 
