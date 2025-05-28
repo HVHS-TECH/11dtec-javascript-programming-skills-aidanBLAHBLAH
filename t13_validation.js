@@ -14,8 +14,8 @@ let brokeLOL = true;
  Main code 
  ***********************************************************************************************************/
 while (brokeLOL) {
-    pocketMoney  =promp("How much pocket money do you have?")
-}
+    pocketMoney  =promp("How much pocket money do you have?");
+    if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney))
 
 
 
