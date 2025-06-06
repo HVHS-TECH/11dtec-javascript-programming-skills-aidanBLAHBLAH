@@ -21,13 +21,12 @@ while (trueName) {
     userName = prompt("What's your name?")
     if(userName == null || userName == "" || userName == " " || isNaN(userName)) {
         alert("Enter a name");
-    }
+    }else{
 for (i=0;i<chocolateArray.length;i++){
   shopMessage = shopMessage + "\nA "+chocolateArray[i]+" is "+chocolatePrices[i];
- }
+ }}
  alert(shopMessage)
 }
-
   while (truePocket) {
     pocketMoney = prompt("How much pocket money do you have? (In dollars)")
     if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
