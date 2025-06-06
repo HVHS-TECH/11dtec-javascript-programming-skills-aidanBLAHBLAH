@@ -21,14 +21,13 @@ while (trueName) {
     userName = prompt("What's your name?")
     if(userName == null || userName == "" || userName == " "||isNaN(false)) {
         alert("Enter a name");
-    }else{
-      for (i=0;i<chocolateArray.length;i++){
+    }else(i=0;i<chocolateArray.length;i++){
   shopMessage = shopMessage + "\nA "+chocolateArray[i]+" is "+chocolatePrices[i];
  }
  alert(shopMessage)
     }
     
-  }
+  
 
 
 
