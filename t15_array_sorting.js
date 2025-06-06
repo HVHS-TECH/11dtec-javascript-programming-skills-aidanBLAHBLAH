@@ -7,7 +7,7 @@
 console.log("Running t01_introduction.js");
 
 //Variables
-let username;
+let userName;
 let pocketMoney;
 let truePocket = true;
 let trueName = true;
