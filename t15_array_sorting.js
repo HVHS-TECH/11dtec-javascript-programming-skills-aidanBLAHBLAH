@@ -22,8 +22,10 @@ while (trueName) {
     userName = prompt("What's your name?")
     if(userName == null || userName == "" || userName == " "||isNaN(false)) {
         alert("Enter a name");
-    }if{
+    }if(isNaN){
       userAge = prompt("How old are you?")
+    }if(userAge == null || userAge == "" || userAge == " " || isNaN(userAge)){
+      alert("Enter a number")
     }}
 
 
