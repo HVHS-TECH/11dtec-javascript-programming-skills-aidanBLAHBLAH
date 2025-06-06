@@ -27,10 +27,7 @@ while (trueName) {
  }
  alert(shopMessage)
     }
-    
   }
-
-
 
   while (truePocket) {
     pocketMoney = prompt("How much pocket money do you have? (In dollars)")
