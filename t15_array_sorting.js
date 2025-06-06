@@ -19,7 +19,7 @@ let shopMessage = "Welcome to the shop, you can buy";
  ***********************************************************************************************************/
 while (trueName) {
     userName = prompt("What's your name?")
-    if(userName == null || userName == "" || userName == " " || isNaN(userName)) {
+    if(userName == null || userName == "" || userName == " " || isNaN) {
         alert("Enter a name");
     }else{
 for (i=0;i<chocolateArray.length;i++){
@@ -32,7 +32,6 @@ for (i=0;i<chocolateArray.length;i++){
     if(pocketMoney == null || pocketMoney == "" || pocketMoney == " " || isNaN(pocketMoney)) {
         alert("Enter a valid number");
     }
-
   }
 /************************************************************************************************************
  Functions 
