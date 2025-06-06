@@ -26,13 +26,15 @@ while (trueName) {
       userAge = prompt("How old are you?")
     }if(userAge == null || userAge == "" || userAge == " " || isNaN(userAge)){
       alert("Enter a number")
+    }if(isNaN(false)){
+      alert(shopMessage)
     }}
 
 
       for (i=0;i<chocolateArray.length;i++){
   shopMessage = shopMessage + "\nA "+chocolateArray[i]+" is "+chocolatePrices[i];
  }
- alert(shopMessage)
+ 
     
   
 
