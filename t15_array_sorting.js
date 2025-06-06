@@ -7,7 +7,7 @@
 console.log("Running t01_introduction.js");
 
 //Variables
-let userName;
+let userName
 let pocketMoney;
 let truePocket = true;
 let trueName = true;
@@ -21,13 +21,14 @@ while (trueName) {
     userName = prompt("What's your name?")
     if(userName == null || userName == "" || userName == " "||isNaN(false)) {
         alert("Enter a name");
-    }else(i=0;i<chocolateArray.length;i++){
+    }else{
+      for (i=0;i<chocolateArray.length;i++){
   shopMessage = shopMessage + "\nA "+chocolateArray[i]+" is "+chocolatePrices[i];
  }
  alert(shopMessage)
     }
     
-  
+  }
 
 
 
