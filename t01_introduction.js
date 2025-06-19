@@ -14,8 +14,8 @@ console.log("Running t01_introduction.js");
  ***********************************************************************************************************/
 
 function test(){
-    var message = "You have";
-    message = message + submit.value;
+    var message = "You have $";
+    message = message + large.value;
     welcomeMessage.innerHTML = message;
 }
 
