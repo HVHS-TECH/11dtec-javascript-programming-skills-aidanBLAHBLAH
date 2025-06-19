@@ -15,7 +15,8 @@ console.log("Running t01_introduction.js");
 
 function test(){
     var message = "You have";
-    message = message + 
+    message = message + large.value;
+    
 }
 
 
