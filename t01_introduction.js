@@ -14,6 +14,10 @@ console.log("Running t01_introduction.js");
  ***********************************************************************************************************/
 
 function test(){
+    var pocketMoney;
+  if (document.getElementById("1seat").checked) {
+    pocketMoney = "1 seat";
+
     var message = "You have $";
     message = message + large.value;
     welcomeMessage.innerHTML = message;
